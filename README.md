@@ -1,5 +1,3 @@
-# bashColours
-
 # Bash Colours
 In this proyect you can see how to set colours in output shell.
 
