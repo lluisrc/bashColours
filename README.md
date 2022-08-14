@@ -1,5 +1,5 @@
 # Bash Colours
-In this proyect you can see how to set colours in output shell.
+In this proyect you can see how to set colours in output scripts.
 
 ```
 endColour="\e[0m"
